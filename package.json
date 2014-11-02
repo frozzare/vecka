@@ -1,7 +1,7 @@
 {
   "name": "vecka",
   "description": "Get the current week number",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "homepage": "https://github.com/frozzare/vecka",
   "author": {
@@ -19,10 +19,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "main": "lib/vecka",
-  "files": [
-    "lib/vecka.js"
-  ],
+  "main": "lib/vecka.js",
   "devDependencies": {
     "mocha": "*"
   },
