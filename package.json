@@ -1,0 +1,32 @@
+{
+  "name": "vecka",
+  "description": "Get the current week number",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/frozzare/vecka",
+  "author": {
+    "name": "Fredrik Forsmo",
+    "email": "fredrik.forsmo@gmail.com",
+    "url": "http://forsmo.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frozzare/vecka.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "lib/vecka",
+  "files": [
+    "lib/vecka.js"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "array",
+    "list",
+    "pluck",
+    "property"
+  ]
+}
