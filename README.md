@@ -2,7 +2,9 @@
 
 Get the current week number.
 
-Install the module with: `npm install vecka`
+## Install
+
+`npm install vecka`
 
 ## Example
 
@@ -10,6 +12,15 @@ Install the module with: `npm install vecka`
 var vecka = require('vecka');
 
 console.log(vecka.nu()); // 44
+```
+
+## CLI
+
+`npm install -g vecka`
+
+```
+$ vecka
+44
 ```
 
 ## API

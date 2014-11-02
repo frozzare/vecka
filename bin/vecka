@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var vecka = require('../lib/vecka');
+console.log(vecka.nu());
